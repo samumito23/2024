@@ -1,1 +1,10 @@
 @charset"UTF-8"
+body {
+background-color: blue;
+    background-image:linear-gradient( todown,purple,blue);
+}
+img {
+
+border-radius: 100%; width: 30%;
+
+}
