@@ -1,7 +1,7 @@
 @charset"UTF-8"
 body {
 background-color: blue;
-    background-image:linear-gradient( todown,purple,blue);
+    background-image:linear-gradient( todown,red,blue);
 }
 img {
 
