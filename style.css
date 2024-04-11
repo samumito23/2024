@@ -1,10 +1,39 @@
-@charset"UTF-8"
-body {
-background-color: blue;
-    background-image:linear-gradient(to down,red,blue);
+@charset "UTF-8";
+
+ body 
+{
+        background-color: red ;
+  background-image: linear-gradient(to right, blue, orange);
+  text-align: center;
 }
+ 
+
+
+p {
+
+  color:  rgb(0, 0, 0);
+  text-align: center;
+  font-size: 180%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;
+}
+
+li {
+ color:  rgb(0, 0, 0);
+  text-align: center;
+    text-decoration: none;
+  font-size: 160%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
+        a {
+         color:  rgb(0, 0, 0);
+          text-align: center;
+           text-decoration: none;
+  font-size: 130%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+
 img {
-
-border-radius: 100%; width: 30%;
-
+ text-align: center;
 }
